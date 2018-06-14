@@ -12,4 +12,4 @@ To see a single run of the model, run:
 
 `python3 deterrence.py`
 
-To generate the 3D figure, run `make_figure_data()` (this takes a LONG time), then run `make_figure()`
+To generate the 3D figure from `Summary.csv`, run `make_figure()`. You can generate the data from scratch using `make_figure_data()` (this takes a LONG time).
