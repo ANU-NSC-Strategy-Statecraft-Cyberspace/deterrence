@@ -8,7 +8,7 @@ National Security College <http://nsc.anu.edu.au/>, Australian National Universi
 Main contact: Professor Roger Bradbury <roger.bradbury@anu.edu.au>
 
 # Usage
-To see a single run of the model, run:
+To see the single run of the model, run:
 
 `python3 deterrence.py`
 
